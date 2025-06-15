@@ -1,6 +1,6 @@
-# 🗡️ Zoro - Daily Goal Tracker with Quotes & Graphs
+# Zoro - Daily Goal Tracker with Quotes & Graphs
 
-Zoro is your terminal-based warrior companion to track daily goals, stay motivated, and visualize your progress. Designed for consistency, it blends a minimalist interface with powerful features like quote-of-the-day, streak tracking, and progress graphs.
+Zoro is your terminal-based companion to track daily goals, stay motivated, and visualize your progress. Designed for consistency, it blends a minimalist interface with powerful features like quote-of-the-day, streak tracking, and progress graphs.
 
 ## 🚀 Features
 
