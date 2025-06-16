@@ -25,13 +25,14 @@ Zoro is your terminal-based companion to track daily goals, stay motivated, and 
 - `matplotlib`
 - `requests`
 
-Install missing libraries with:
+# 🔐 Local Storage
+All goals are stored in goals.json on your machine. No internet is needed to log or track goals — only for fetching online quotes.
+
+# ✨ Motivation
+Inspired by the discipline of Zoro, this tool helps you slice through laziness and stay focused — one goal at a time.
+
+# Install missing libraries with:
 
 ```bash
 pip install matplotlib requests
-🔐 Local Storage
-All goals are stored in goals.json on your machine. No internet is needed to log or track goals — only for fetching online quotes.
-
-✨ Motivation
-Inspired by the discipline of Zoro, this tool helps you slice through laziness and stay focused — one goal at a time.
 
